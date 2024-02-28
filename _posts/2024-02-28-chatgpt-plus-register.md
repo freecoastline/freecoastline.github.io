@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ChatGPT Plus如何购买？信用卡付款失败怎么办？如何使用信用卡升级ChatGPT Plus？
-categories: Chatgpt
+categories: GitHub
 description: 如何订阅chatgpt的保姆级教程 使用虚拟卡订阅chatgpt4.0
 keywords: Jekyll, GitHub Pages
 topmost: true
