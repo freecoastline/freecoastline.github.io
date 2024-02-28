@@ -4,10 +4,10 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: chatgpt资讯小站
+subtitle: "公众号：没日没夜当帕鲁"
+description: "chatgpt资讯小站，公众号：没日没夜当帕鲁"
+keywords: chatgpt资讯小站, 没日没夜当帕鲁
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
