@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: freecoastline.github.io
+url: https://freecoastline.github.io
 date_format: "ordinal"
 title: chatgpt资讯小站
 subtitle: "公众号：没日没夜当帕鲁"
