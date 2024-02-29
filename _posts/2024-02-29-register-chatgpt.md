@@ -1,8 +1,12 @@
-# 2024注册chatgpt3.5教程 订阅chatgpt 使用openai 
-
-
-
-注册完后，或者你已经有账户，想要快速升级 Plus，可以看[升级chatgpt plus](https://freecoastline.github.io/chatgpt-guide/handbook/upgradeChatGpt.html)，4.0的功能远远强过3.5，谁用谁知道
+---
+layout: post
+title: 2024注册chatgpt3.5教程 订阅chatgpt 使用openai 
+categories: Chatgpt
+description: 2024注册chatgpt3.5教程 订阅chatgpt 使用openai 
+keywords: chatgpt4.0
+topmost: true
+---
+2024手把手教你如何订阅chatgpt3.5，注册完后，或者你已经有账户，想要快速升级 Plus，可以看[升级chatgpt plus](http://www.chatgptzixun.com/2024/02/29/upgrade-chatgpt/)，4.0的功能远远强过3.5，谁用谁知道
 
 注册一共三个步骤：
 
@@ -40,6 +44,6 @@ ChatGPT 用户的登录入口是 https://chat.openai.com，可以开始愉快�
 
 
 
-## 如果想注册或者升级一条龙，付费解决一切，直接联系wyw61798116
+## 如果想注册或者升级一条龙，付费解决一切，请说明来意：chatgpt
 
-<img src="https://s2.loli.net/2024/02/07/kem9G1HbYIjxsLJ.png" alt="二维码" style="zoom:25%;" />（chatgpt3.5成品账号 50/个)
+<img src="https://s2.loli.net/2024/02/07/kem9G1HbYIjxsLJ.png" alt="二维码" style="zoom:25%;" />（chatgpt3.5成品账号 39/个 chatgpt4.0成品号200/个)
