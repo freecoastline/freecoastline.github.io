@@ -121,6 +121,22 @@
     } ,
   
     {
+      "title"    : "sora最大的三个亮点，普通人也能抓住AI最新机会",
+      "category" : "Sora",
+      
+      "url"      : "http://localhost:4000/2024/03/01/sora-highlight/",
+      "keywords" : "sora"
+    } ,
+  
+    {
+      "title"    : "Sora官方提示文档",
+      "category" : "Sora",
+      
+      "url"      : "http://localhost:4000/2024/03/01/sora-prompt/",
+      "keywords" : "sora"
+    } ,
+  
+    {
       "title"    : "JSON",
       "category" : "",
       

@@ -4,7 +4,7 @@ title: 2024注册chatgpt3.5教程 订阅chatgpt 使用openai
 categories: Chatgpt
 description: 2024注册chatgpt3.5教程 订阅chatgpt 使用openai 
 keywords: chatgpt4.0
-topmost: true
+topmost: false
 ---
 2024手把手教你如何订阅chatgpt3.5，注册完后，或者你已经有账户，想要快速升级 Plus，可以看[升级chatgpt plus](http://www.chatgptzixun.com/2024/02/29/upgrade-chatgpt/)，4.0的功能远远强过3.5，谁用谁知道
 

@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-29T21:25:45+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chatgpt资讯小站</title><subtitle>chatgpt资讯小站，chatgpt4.0订阅，chatgptplus订阅，chatgpt注册</subtitle><author><name>Ken</name></author><entry><title type="html">如何订阅OnlyFans? 喜欢的博主要怎么支付？如何绑定虚拟信用卡？ 一篇全告诉你</title><link href="http://localhost:4000/2024/02/29/how-to-pay-bills-onlyfans/" rel="alternate" type="text/html" title="如何订阅OnlyFans? 喜欢的博主要怎么支付？如何绑定虚拟信用卡？ 一篇全告诉你" /><published>2024-02-29T00:00:00+08:00</published><updated>2024-02-29T00:00:00+08:00</updated><id>http://localhost:4000/2024/02/29/how-to-pay-bills-onlyfans</id><content type="html" xml:base="http://localhost:4000/2024/02/29/how-to-pay-bills-onlyfans/"><![CDATA[<p>本文推荐阅读时间仅三分钟，快速教你onlyfans订阅法门，仅需要解决一个问题。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-01T13:48:44+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chatgpt资讯小站</title><subtitle>chatgpt资讯小站，chatgpt4.0订阅，chatgptplus订阅，chatgpt注册</subtitle><author><name>Ken</name></author><entry><title type="html">sora最大的三个亮点，普通人也能抓住AI最新机会</title><link href="http://localhost:4000/2024/03/01/sora-highlight/" rel="alternate" type="text/html" title="sora最大的三个亮点，普通人也能抓住AI最新机会" /><published>2024-03-01T00:00:00+08:00</published><updated>2024-03-01T00:00:00+08:00</updated><id>http://localhost:4000/2024/03/01/sora-highlight</id><content type="html" xml:base="http://localhost:4000/2024/03/01/sora-highlight/"><![CDATA[<p>参考官网视频：https://openai.com/sora
+官方文档：<a href="https://www.chatgptzixun.com/2024/03/01/sora-prompt/">sora官方promp文档</a></p>
+
+<h1 id="一能一次性生成长达60秒的长视频">一、能一次性生成长达60秒的长视频。</h1>
+
+<p>​	为什么说这个特点亮眼? 因为目前不管是runway、pika、svd,基本只能生成6-8秒的视频,而要生成长视频,以前的解决办法就是将第一段视频最后 一帧截图然后再持续生成。
+​	就算不了解的基本也能想象到,连续性会有很大问题。而sora,能直接生成60秒的长视频,而且能保持画面连续性以及一致性,用过其他AI视频工具的都知道,保持人脸统一,基本是很难。为了让大家有个直观的感受,可以参考官网视频：https://openai.com/sora</p>
+
+<p>​	最关键的是什么？手！手指、手掌、完全自然，不会有多余的手指，玩过AI绘画的都知道，出图最让人头疼的是手指</p>
+
+<p><strong>降维打击！</strong></p>
+
+<h1 id="二单视频多角度镜头">二、单视频多角度镜头。</h1>
+
+<p>​	这个亮点到底有多牛逼呢?</p>
+
+<p>​	我们以现实生活中的电影拍摄来说,虽然我不懂拍电影,但是通过很多电影的拍摄花絮中能得知,一般的电影都是一个一个镜头拼接出来的。有的电影因为天气,演员,环境等等的原因,不能在规定时间内拍摄完毕,就需要等待合适的季节,
+​	我们熟知的《水门桥》就因为特殊原因没拍摄完毕,后来等到来年冬季继续完成。</p>
+
+<p>​	天气,还需要还原当时的人物服化道,才能继续完成缺失的镜头。。更不用说目前的Al视频工具了,目前已知的AI视频工具只能完成单镜头，而在真正的拍摄场景中,要想实现多镜头的效果,一般是需要多机位拍摄,以及复杂的选片和剪辑。
+​	最关键的是机器人背后的造型也推演出来了,而且镜头移动与切换过程中，Sora实现了多角度镜头丝滑切换,每一个镜头都极为精细,且主体还能保证完美的一致性。</p>
+
+<p>​	<strong>没有变形!没有变形!没有变形!</strong></p>
+
+<p>​	另外,如果用传统的虚拟技术或者是3D渲染这样一段20秒的视频,需要多久,需要多少刀?
+​	<strong>重要的事说三遍,因为只有真正玩过AI的人,才能懂这个有多牛逼。</strong>
+​	看到这里,我相信各位看官老爷应该能知道为什么Sora现在这么么火了吧?因为对于一些行业来说,真的是会带来很大的冲击。
+​	这时候想起来《阿凡达》系列电影,为了做水的效果,花了多少钱,花了多少时间,据说成本按秒计算。</p>
+
+<h1 id="三可读懂世界模型">三、可读懂世界模型</h1>
+
+<p>​	这个亮点就更牛逼了,乍一看也许不好理解,通俗点说就是sora已经理解了现实世界的基本运作规律,能够模拟现实世界的基本本特征,因此sora更加精准的描述应该是”现实世界物理模拟器”。
+​	那怎么理解这个事情呢,就举很简单的生活常识:
+​	石块从高处掉入水中,那么一定会水花溅射,水面也会水波荡漾对吧?这其中牵扯到很多的物理规律,比如说重力,比如说流体力学,比如说XXXX等等,我也解释不完全。
+​	这个现象在我们人类看来,理应如此,但是要想用AI完全模拟出来,那就需要AI对这个现象当中涉及到的所有物理知识都理解,并且能够够模拟出来。最关键是能通过一段很简单的prompt就能理解字面意思,并且模拟出来。
+​	所以这里面到底有多牛逼,涉及到太多的技术我回答不了,但是从红衣教主的描述中就可以窥探到答案,他说:sora的出现使得AGI的实现或将从10年缩短到1年。</p>
+
+<h2 id="agi是什么">AGI是什么?</h2>
+
+<p>​	AGI是Artificial General Intelligence的缩写,即通用人工智能。AG61智能的目标是实现人类般的通用智能,这意味着Al可以像人类一样理解任意通用任务,并以人类的智力水平执行完成。基本上,除了在在”自我意识”的生成,AGI就是人类
+对人工智能的终极梦想。AGI时代也就是所谓的强人工智能时代。
+​	再通俗点说,用不了多久,人手一个Al智能助手的时代立马就能到来了,不管是帮你订外卖,帮你写文章做视频,还是其他与你生活工作息息相关的事情,都能找到一个AI能辅助你,甚至是直直接帮你完成。以此推测,科幻电影中的场景,很
+快就能实现。
+​	红衣教主是360的创始人,妥妥的技术大佬,他能这么说,可见这其中的技术跨越到底有多大。说完这么多牛逼的地方,那我们普通人应该怎么办?
+​	难道就等AGI的出现,甚至是具象机器人的出现,代替我们拧螺丝,搬砖,写方案,做视频等?
+​	首先来说,目前Sora尽管已经展示了其牛逼之处,但目前还未双对外开放,也仅仅是放出来demo,实际效果如何,还需要开放以后实际测试。
+另外在AGI的出现,肯定还需要一段时间,这里不仅涉及到技术问题,还涉及到法律,规范,道德,监管等到各种问题,就算是实现,肯定也是小规模的测试,真正普及,应该还有很长一段时间。
+​	因此,这一段时间,的的确确是普通人把握时机的机会,抓住他,利用他,成就自己。</p>]]></content><author><name>Ken</name></author><category term="Sora" /><summary type="html"><![CDATA[sora最大的三个亮点，了解sora从这里开始]]></summary></entry><entry><title type="html">Sora官方提示文档</title><link href="http://localhost:4000/2024/03/01/sora-prompt/" rel="alternate" type="text/html" title="Sora官方提示文档" /><published>2024-03-01T00:00:00+08:00</published><updated>2024-03-01T00:00:00+08:00</updated><id>http://localhost:4000/2024/03/01/sora-prompt</id><content type="html" xml:base="http://localhost:4000/2024/03/01/sora-prompt/"><![CDATA[<p>收录官方文档的最佳实践，本文的全文翻译来自：<strong>chatgpt4.0turbo</strong>，需要订阅chat4.0，参考：<a href="https://www.chatgptzixun.com/2024/02/29/upgrade-chatgpt/">chatgpt4.0升级指南</a></p>
+
+<h1 id="一什么是sora">一、什么是sora？</h1>
+
+<p>一个AI模型，可以根据文本指令，创建现实且具有丰富想象力的场景。</p>
+
+<p>详情可见：<a href="https://openai.com/sora">sora官方文档</a></p>
+
+<h1 id="二为什么要看官方提示词">二、为什么要看官方提示词？</h1>
+
+<p>官方的就是最权威的，也是最佳的学习材料</p>
+
+<h1 id="三提示词系列物理世界的交互">三、提示词系列<一>：物理世界的交互</一></h1>
+
+<p><strong>案例一：东京时尚美女</strong></p>
+
+<blockquote>
+  <p>Prompt: A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a black leather jacket, a long red dress, and black boots, and carries a black purse. She wears sunglasses and red lipstick. She walks confidently and casually. The street is damp and reflective, creating a mirror effect of the colorful lights. Many pedestrians walk about.</p>
+
+  <p>中文版本：</p>
+
+  <p>在东京照耀眼目的霓虹灯光下，一位时尚的女士自信地沿着充满活力的街景大步行走。她的黑色皮夹克折射着周围动画招牌的光辉，而长长的红色连衣裙随着每一步轻轻飘扬。她穿着一双黑色靴子，手提一只黑色手袋，佩戴着太阳眼镜，并涂着红色唇膏。她的步伐既自信又悠然。街道湿润而具有反射性，色彩斑斓的灯光在地面创建了镜面般的效果。众多行人在她周围络绎走动。</p>
+</blockquote>
+
+<p><img src="/images/sora/tokyo-beauty.png" alt="" /></p>
+
+<p><strong>案例二：白色雪地里的猛犸象</strong></p>
+
+<blockquote>
+  <p>Prompt: Several giant wooly mammoths approach treading through a snowy meadow, their long wooly fur lightly blows in the wind as they walk, snow covered trees and dramatic snow capped mountains in the distance, mid afternoon light with wispy clouds and a sun high in the distance creates a warm glow, the low camera view is stunning capturing the large furry mammal with beautiful photography, depth of field.</p>
+
+  <p>中文版本：</p>
+
+  <p>几只巨大的猛犸象缓缓地穿过雪地草原，它们长长的毛皮在微风中轻轻飘扬。远处可以见到被雪覆盖的树木和雄伟的积雪覆盖的山峰，在午后的光线下，蓬松的云朵和高悬的太阳共同营造出一片温暖的光辉。低角度的镜头视角极为壮观，捕捉到了这些大型毛茸茸哺乳动物的美丽画面，景深效果出众。</p>
+</blockquote>
+
+<p><img src="images/sora/elephant.png" alt="" /></p>
+
+<p><strong>案例三：太空人</strong></p>
+
+<blockquote>
+  <p>Prompt: A movie trailer featuring the adventures of the 30 year old space man wearing a red wool knitted motorcycle helmet, blue sky, salt desert, cinematic style, shot on 35mm film, vivid colors.</p>
+
+  <p>中文版本：</p>
+
+  <p>电影预告片讲述了30岁太空人戴着红色羊毛针织摩托车头盔的冒险经历，蓝天、盐漠，电影风格，35毫米胶片拍摄，色彩鲜艳。</p>
+
+</blockquote>
+
+<p><img src="images/sora/space-man.png" alt="" /></p>]]></content><author><name>Ken</name></author><category term="Sora" /><summary type="html"><![CDATA[收录官方文档的最佳实践，本文的全文翻译来自：chatgpt4.0 turbo]]></summary></entry><entry><title type="html">如何订阅OnlyFans? 喜欢的博主要怎么支付？如何绑定虚拟信用卡？ 一篇全告诉你</title><link href="http://localhost:4000/2024/02/29/how-to-pay-bills-onlyfans/" rel="alternate" type="text/html" title="如何订阅OnlyFans? 喜欢的博主要怎么支付？如何绑定虚拟信用卡？ 一篇全告诉你" /><published>2024-02-29T00:00:00+08:00</published><updated>2024-02-29T00:00:00+08:00</updated><id>http://localhost:4000/2024/02/29/how-to-pay-bills-onlyfans</id><content type="html" xml:base="http://localhost:4000/2024/02/29/how-to-pay-bills-onlyfans/"><![CDATA[<p>本文推荐阅读时间仅三分钟，快速教你onlyfans订阅法门，仅需要解决一个问题。
 那就是需要注册一张虚拟信用卡</p>
 
 <h2 id="目前订阅onlyfans唯一的门槛就是需要一张信用卡-可以看到即使是订阅免费的博主也是需要信用卡的">目前订阅OnlyFans唯一的门槛就是需要一张信用卡 可以看到即使是订阅免费的博主也是需要信用卡的</h2>
