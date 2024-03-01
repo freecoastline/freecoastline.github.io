@@ -55,7 +55,7 @@ topmost: false
 >
 >几只巨大的猛犸象缓缓地穿过雪地草原，它们长长的毛皮在微风中轻轻飘扬。远处可以见到被雪覆盖的树木和雄伟的积雪覆盖的山峰，在午后的光线下，蓬松的云朵和高悬的太阳共同营造出一片温暖的光辉。低角度的镜头视角极为壮观，捕捉到了这些大型毛茸茸哺乳动物的美丽画面，景深效果出众。
 
-![](images/sora/elephant.png)
+![](images/sora/elephant.png/)
 
 
 
@@ -71,7 +71,7 @@ topmost: false
 >
 >
 
-![](images/sora/space-man.png)
+![](images/sora/space-man.png/)
 
 
 
