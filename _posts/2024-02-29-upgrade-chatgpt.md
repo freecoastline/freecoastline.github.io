@@ -8,6 +8,10 @@ topmost: true
 ---
 很多人疑惑chatgot plus如何订阅，要从3.5升级到4.0需要什么东西？这里带你保姆级教程，几分钟内搞定chatgpt plus订阅
 
+
+
+
+
 ## 怎么从chatgpt3.5升级到chatgpt4.0？
 
 前置工作：准备一个chatgpt3.5的账号，参考：[注册chatgpt3.5](https://freecoastline.github.io/chatgpt-guide/handbook/registerChatgpt.html)
