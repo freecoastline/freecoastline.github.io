@@ -30,7 +30,7 @@ topmost: true
 
 开通虚拟信用卡的网站：[一键开通chatgpt4.0](<https://bewildcard.com/i/YAWEI6>)
 
-![ffa353ebae83434e81d5dbe7025014a2~tplv-k3u1fbpfcp-jj-mark_0_0_0_0_q75.jpg](https://s2.loli.net/2024/01/27/HDyzSKYBCWo5vPk.png)
+![](/images/chatgpt/wildcard-intro.png)
 
 根据要求复制付款的链接到候选框就可以一键升级了～
 
