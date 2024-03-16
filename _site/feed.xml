@@ -1,7 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-01T13:48:44+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chatgpt资讯小站</title><subtitle>chatgpt资讯小站，chatgpt4.0订阅，chatgptplus订阅，chatgpt注册</subtitle><author><name>Ken</name></author><entry><title type="html">sora最大的三个亮点，普通人也能抓住AI最新机会</title><link href="http://localhost:4000/2024/03/01/sora-highlight/" rel="alternate" type="text/html" title="sora最大的三个亮点，普通人也能抓住AI最新机会" /><published>2024-03-01T00:00:00+08:00</published><updated>2024-03-01T00:00:00+08:00</updated><id>http://localhost:4000/2024/03/01/sora-highlight</id><content type="html" xml:base="http://localhost:4000/2024/03/01/sora-highlight/"><![CDATA[<p>参考官网视频：https://openai.com/sora
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-01T20:32:13+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">chatgpt资讯小站</title><subtitle>chatgpt资讯小站，chatgpt4.0订阅，chatgptplus订阅，chatgpt注册</subtitle><author><name>Ken</name></author><entry><title type="html">OpenAI Sora 最新使用教程 - 新手小白必看指南</title><link href="http://localhost:4000/2024/03/01/sora-guide/" rel="alternate" type="text/html" title="OpenAI Sora 最新使用教程 - 新手小白必看指南" /><published>2024-03-01T00:00:00+08:00</published><updated>2024-03-01T00:00:00+08:00</updated><id>http://localhost:4000/2024/03/01/sora-guide</id><content type="html" xml:base="http://localhost:4000/2024/03/01/sora-guide/"><![CDATA[<p>目前最官方的资料还是来自OpenAI：<a href="https://openai.com/sora">OpenAI Sora官方网站</a></p>
+
+<p>本站做了基于<a href="https://www.chatgptzixun.com/2024/02/29/upgrade-chatgpt/">chatgpt4.0</a>的复刻翻译：<a href="https://www.chatgptzixun.com/2024/03/01/sora-prompt/">Sora官方提示文档</a></p>
+
+<h1 id="一sora是什么">一、Sora是什么？</h1>
+
+<p>简而言之，通过文本生成视频的大模型</p>
+
+<p>2024年2月16日刚刚发布，直到这篇文章落笔前也不过半个月。</p>
+
+<p>（友情提示：目前openai仍然未开放sora灰度，能使用的是少部分专业用户，对普通人来说，最快接触到sora的方式是先订阅chatgpt plus，官方会首先开放给这批人使用，需要注册升级chatgpt plus的朋友可以看这篇文章，<a href="https://www.chatgptzixun.com/2024/02/29/upgrade-chatgpt/">升级chatgpt plus指南</a>,迅速完成升级）</p>
+
+<p><img src="/images/sora/sora-first-page/" alt="" /></p>
+
+<h1 id="二sora的最佳实践在哪里找">二、Sora的最佳实践在哪里找？</h1>
+
+<p>原文：<a href="https://openai.com/sora">OpenAI Sora官方网站</a></p>
+
+<p>图文翻译：<a href="https://www.chatgptzixun.com/2024/03/01/sora-prompt/">Sora官方提示文档</a></p>
+
+<h1 id="三sora相比原来的短视频生成工具有哪些亮点">三、Sora相比原来的短视频生成工具有哪些亮点？</h1>
+
+<p>主要有三个：</p>
+
+<ul>
+  <li>单视频多角度镜头</li>
+  <li>
+    <p>能一次性生成长达60秒的长视频</p>
+  </li>
+  <li>可读懂世界模型（OpenAI认为，这是实现通用人工智能的重要一步）</li>
+</ul>
+
+<p>具体参考：<a href="https://www.chatgptzixun.com/2024/03/01/sora-highlight/">Sora三大亮点，普通人也能抓住AI风口</a></p>
+
+<h1 id="四sora怎么使用">四、Sora怎么使用？</h1>
+
+<h2 id="41-使用sora前的准备工作">4.1 使用sora前的准备工作</h2>
+
+<p>在开始前，你需要准备OpenAI的账号，并且拥有Sora的权限，就目前而言，你能做的是先升级到<a href="https://www.chatgptzixun.com/2024/02/29/upgrade-chatgpt/">chatgpt plus</a>,占得访问Sora的先机。</p>
+
+<h2 id="42-sora使用步骤一">4.2 Sora使用步骤一</h2>
+
+<p>登陆OpenAI，在指定区域输入你的文本描述，可以是个动作概述，也可以自导自演一部小电影，Sora的能力能够完成一个60s的精致短视频</p>
+
+<h2 id="42-sora将开始处理请求">4.2 Sora将开始处理请求</h2>
+
+<p>Sora在开始生成之后需要花几分钟处理你的prompt，完成后，你将可以预览生成的视频。</p>
+
+<h1 id="五sora的技术原理">五、Sora的技术原理</h1>
+
+<h2 id="51--scaling-transformers-for-视频生成">5.1  Scaling transformers For 视频生成</h2>
+
+<p>Sora采用扩散模型(diffusion model)，它通过从一个看起来像静态噪音的视频开始，并通过许多步骤消除噪音来逐渐改变它来生成视频。Sora 能一次生成整个视频，或者对生成的视频进行延长。通过让模型一次预览多个帧，确保即使某个对象暂时离开视野，也能保持一致性。</p>
+
+<p><img src="/images/sora/sora-model-1.png" alt="" /></p>
+
+<h2 id="52-将视觉数据转化为数据块">5.2 将视觉数据转化为数据块</h2>
+
+<p>将视频和图像表示为被称为数据块(<strong>patches</strong>)的数据较小的单元集合，每个patches类似于 GPT 中的一个token。通过统一我们对数据的表示方式，我们可以在比以往更广泛的视觉数据范围内训练扩散 Transformer，包括不同的时长、分辨率和纵横比。</p>
+
+<p><img src="/images/sora/sora-model-2.png" alt="" /></p>
+
+<h1 id="六sora有哪些局限性呢">六、Sora有哪些局限性呢？</h1>
+
+<h2 id="61-物理交互模拟局限">6.1 物理交互模拟局限</h2>
+
+<p>OpenAI使用公开可用的视频以及获得授权的版权视频来训练该模型，但没有透露视频的数量或确切来源。在其发布时，OpenAI承认Sora的一些缺点，包括难以模拟复杂的物理学、理解因果关系以及区分左右。</p>
+
+<h2 id="6-2-安全限制">6. 2 安全限制</h2>
+
+<p>OpenAI表示，为了遵守公司现有的安全实践，Sora将限制文本提示，以避免生成性、暴力、仇恨或名人形象的图像，以及包含现有知识产权的内容。</p>
+
+<h2 id="63-幻觉可能">6.3 幻觉可能</h2>
+
+<p>长序列一致性，由于视频的信息密度比文本大很多，序列建模的复杂度O(L<em>B</em>d)，L = sequence length，B = batch_size，d = embedding dimension，视频要在物体描述，风格等细节完全保持一致非常困难，以概率生成方式就可能出现幻觉。</p>
+
+<h1 id="七展望">七、展望</h1>
+
+<p>Sora的诞生意味着，在文字、图片之后，AI的技术已经突破到了视频领域。虽然在此之前，Runway Gen 2、Pika等AI视频工具已经发布过类似的模型，但相较之下，别家的大模型还在致力于突破几秒内的连贯性，OpenAI已经可以实现60秒的超精细视频制作，这一技术可以说是史诗级别的突破。同时，出色的视频制作能力瞬间“点燃”科技圈。英伟达人工智能研究院首席研究科学家Jim Fan直言，这是视频生成领域的GPT-3时刻。360集团创始人、董事长周鸿祎则称，随着Sora的到来，人类离AGI真的就不远了，不是10年、20年的问题，可能一两年很快就可以实现。</p>]]></content><author><name>Ken</name></author><category term="Sora" /><summary type="html"><![CDATA[OpenAI Sora 最新使用教程 - 新手小白必看指南]]></summary></entry><entry><title type="html">sora最大的三个亮点，普通人也能抓住AI最新机会</title><link href="http://localhost:4000/2024/03/01/sora-highlight/" rel="alternate" type="text/html" title="sora最大的三个亮点，普通人也能抓住AI最新机会" /><published>2024-03-01T00:00:00+08:00</published><updated>2024-03-01T00:00:00+08:00</updated><id>http://localhost:4000/2024/03/01/sora-highlight</id><content type="html" xml:base="http://localhost:4000/2024/03/01/sora-highlight/"><![CDATA[<p>参考官网视频：https://openai.com/sora
 官方文档：<a href="https://www.chatgptzixun.com/2024/03/01/sora-prompt/">sora官方promp文档</a></p>
 
-<h1 id="一能一次性生成长达60秒的长视频">一、能一次性生成长达60秒的长视频。</h1>
+<h1 id="一能一次性生成长达60秒的长视频">一、能一次性生成长达60秒的长视频</h1>
 
 <p>​	为什么说这个特点亮眼? 因为目前不管是runway、pika、svd,基本只能生成6-8秒的视频,而要生成长视频,以前的解决办法就是将第一段视频最后 一帧截图然后再持续生成。
 ​	就算不了解的基本也能想象到,连续性会有很大问题。而sora,能直接生成60秒的长视频,而且能保持画面连续性以及一致性,用过其他AI视频工具的都知道,保持人脸统一,基本是很难。为了让大家有个直观的感受,可以参考官网视频：https://openai.com/sora</p>
@@ -10,7 +88,7 @@
 
 <p><strong>降维打击！</strong></p>
 
-<h1 id="二单视频多角度镜头">二、单视频多角度镜头。</h1>
+<h1 id="二单视频多角度镜头">二、单视频多角度镜头</h1>
 
 <p>​	这个亮点到底有多牛逼呢?</p>
 
@@ -23,29 +101,36 @@
 <p>​	<strong>没有变形!没有变形!没有变形!</strong></p>
 
 <p>​	另外,如果用传统的虚拟技术或者是3D渲染这样一段20秒的视频,需要多久,需要多少刀?
-​	<strong>重要的事说三遍,因为只有真正玩过AI的人,才能懂这个有多牛逼。</strong>
-​	看到这里,我相信各位看官老爷应该能知道为什么Sora现在这么么火了吧?因为对于一些行业来说,真的是会带来很大的冲击。
-​	这时候想起来《阿凡达》系列电影,为了做水的效果,花了多少钱,花了多少时间,据说成本按秒计算。</p>
+​	<strong>重要的事说三遍,因为只有真正玩过AI的人,才能懂这个有多牛逼。</strong></p>
+
+<p>​	看到这里,我相信各位看官老爷应该能知道为什么Sora现在这么么火了吧?因为对于一些行业来说,真的是会带来很大的冲击。</p>
+
+<p>​	这时候想起来《阿凡达》系列电影,为了做水的效果,花了多少钱,花了多少时间,据说成本按秒计算。</p>
 
 <h1 id="三可读懂世界模型">三、可读懂世界模型</h1>
 
-<p>​	这个亮点就更牛逼了,乍一看也许不好理解,通俗点说就是sora已经理解了现实世界的基本运作规律,能够模拟现实世界的基本本特征,因此sora更加精准的描述应该是”现实世界物理模拟器”。
-​	那怎么理解这个事情呢,就举很简单的生活常识:
-​	石块从高处掉入水中,那么一定会水花溅射,水面也会水波荡漾对吧?这其中牵扯到很多的物理规律,比如说重力,比如说流体力学,比如说XXXX等等,我也解释不完全。
-​	这个现象在我们人类看来,理应如此,但是要想用AI完全模拟出来,那就需要AI对这个现象当中涉及到的所有物理知识都理解,并且能够够模拟出来。最关键是能通过一段很简单的prompt就能理解字面意思,并且模拟出来。
-​	所以这里面到底有多牛逼,涉及到太多的技术我回答不了,但是从红衣教主的描述中就可以窥探到答案,他说:sora的出现使得AGI的实现或将从10年缩短到1年。</p>
+<p>​	这个亮点就更牛逼了,乍一看也许不好理解,通俗点说就是sora已经理解了现实世界的基本运作规律,能够模拟现实世界的基本本特征,因此sora更加精准的描述应该是”现实世界物理模拟器”。</p>
+
+<p>​	那怎么理解这个事情呢,就举很简单的生活常识:
+​	石块从高处掉入水中,那么一定会水花溅射,水面也会水波荡漾对吧?这其中牵扯到很多的物理规律,比如说重力,比如说流体力学,比如说XXXX等等,我也解释不完全。</p>
+
+<p>​	这个现象在我们人类看来,理应如此,但是要想用AI完全模拟出来,那就需要AI对这个现象当中涉及到的所有物理知识都理解,并且能够够模拟出来。最关键是能通过一段很简单的prompt就能理解字面意思,并且模拟出来。</p>
+
+<p>​	所以这里面到底有多牛逼,涉及到太多的技术我回答不了,但是从红衣教主的描述中就可以窥探到答案,他说:sora的出现使得AGI的实现或将从10年缩短到1年。</p>
 
 <h2 id="agi是什么">AGI是什么?</h2>
 
-<p>​	AGI是Artificial General Intelligence的缩写,即通用人工智能。AG61智能的目标是实现人类般的通用智能,这意味着Al可以像人类一样理解任意通用任务,并以人类的智力水平执行完成。基本上,除了在在”自我意识”的生成,AGI就是人类
-对人工智能的终极梦想。AGI时代也就是所谓的强人工智能时代。
-​	再通俗点说,用不了多久,人手一个Al智能助手的时代立马就能到来了,不管是帮你订外卖,帮你写文章做视频,还是其他与你生活工作息息相关的事情,都能找到一个AI能辅助你,甚至是直直接帮你完成。以此推测,科幻电影中的场景,很
-快就能实现。
-​	红衣教主是360的创始人,妥妥的技术大佬,他能这么说,可见这其中的技术跨越到底有多大。说完这么多牛逼的地方,那我们普通人应该怎么办?
-​	难道就等AGI的出现,甚至是具象机器人的出现,代替我们拧螺丝,搬砖,写方案,做视频等?
-​	首先来说,目前Sora尽管已经展示了其牛逼之处,但目前还未双对外开放,也仅仅是放出来demo,实际效果如何,还需要开放以后实际测试。
-另外在AGI的出现,肯定还需要一段时间,这里不仅涉及到技术问题,还涉及到法律,规范,道德,监管等到各种问题,就算是实现,肯定也是小规模的测试,真正普及,应该还有很长一段时间。
-​	因此,这一段时间,的的确确是普通人把握时机的机会,抓住他,利用他,成就自己。</p>]]></content><author><name>Ken</name></author><category term="Sora" /><summary type="html"><![CDATA[sora最大的三个亮点，了解sora从这里开始]]></summary></entry><entry><title type="html">Sora官方提示文档</title><link href="http://localhost:4000/2024/03/01/sora-prompt/" rel="alternate" type="text/html" title="Sora官方提示文档" /><published>2024-03-01T00:00:00+08:00</published><updated>2024-03-01T00:00:00+08:00</updated><id>http://localhost:4000/2024/03/01/sora-prompt</id><content type="html" xml:base="http://localhost:4000/2024/03/01/sora-prompt/"><![CDATA[<p>收录官方文档的最佳实践，本文的全文翻译来自：<strong>chatgpt4.0turbo</strong>，需要订阅chat4.0，参考：<a href="https://www.chatgptzixun.com/2024/02/29/upgrade-chatgpt/">chatgpt4.0升级指南</a></p>
+<p>​	AGI是Artificial General Intelligence的缩写,即通用人工智能。AG61智能的目标是实现人类般的通用智能,这意味着Al可以像人类一样理解任意通用任务,并以人类的智力水平执行完成。基本上,除了在在”自我意识”的生成,AGI就是人类对人工智能的终极梦想。AGI时代也就是所谓的强人工智能时代。</p>
+
+<p>​	再通俗点说,用不了多久,人手一个Al智能助手的时代立马就能到来了,不管是帮你订外卖,帮你写文章做视频,还是其他与你生活工作息息相关的事情,都能找到一个AI能辅助你,甚至是直直接帮你完成。以此推测,科幻电影中的场景,很快就能实现。</p>
+
+<p>​	红衣教主是360的创始人,妥妥的技术大佬,他能这么说,可见这其中的技术跨越到底有多大。说完这么多牛逼的地方,那我们普通人应该怎么办?</p>
+
+<p>​	难道就等AGI的出现,甚至是具象机器人的出现,代替我们拧螺丝,搬砖,写方案,做视频等?</p>
+
+<p>​	首先来说,目前Sora尽管已经展示了其牛逼之处,但目前还未双对外开放,也仅仅是放出来demo,实际效果如何,还需要开放以后实际测试。另外在AGI的出现,肯定还需要一段时间,这里不仅涉及到技术问题,还涉及到法律,规范,道德,监管等到各种问题,就算是实现,肯定也是小规模的测试,真正普及,应该还有很长一段时间。</p>
+
+<p>​	因此,这一段时间,的的确确是普通人把握时机的机会,抓住他,利用他,成就自己。</p>]]></content><author><name>Ken</name></author><category term="Sora" /><summary type="html"><![CDATA[sora最大的三个亮点，了解sora从这里开始]]></summary></entry><entry><title type="html">Sora官方提示文档</title><link href="http://localhost:4000/2024/03/01/sora-prompt/" rel="alternate" type="text/html" title="Sora官方提示文档" /><published>2024-03-01T00:00:00+08:00</published><updated>2024-03-01T00:00:00+08:00</updated><id>http://localhost:4000/2024/03/01/sora-prompt</id><content type="html" xml:base="http://localhost:4000/2024/03/01/sora-prompt/"><![CDATA[<p>收录官方文档的最佳实践，本文的全文翻译来自：<strong>chatgpt4.0turbo</strong>，需要订阅chat4.0，参考：<a href="https://www.chatgptzixun.com/2024/02/29/upgrade-chatgpt/">chatgpt4.0升级指南</a></p>
 
 <h1 id="一什么是sora">一、什么是sora？</h1>
 
@@ -81,7 +166,7 @@
   <p>几只巨大的猛犸象缓缓地穿过雪地草原，它们长长的毛皮在微风中轻轻飘扬。远处可以见到被雪覆盖的树木和雄伟的积雪覆盖的山峰，在午后的光线下，蓬松的云朵和高悬的太阳共同营造出一片温暖的光辉。低角度的镜头视角极为壮观，捕捉到了这些大型毛茸茸哺乳动物的美丽画面，景深效果出众。</p>
 </blockquote>
 
-<p><img src="images/sora/elephant.png" alt="" /></p>
+<p><img src="/images/sora/elephant.png" alt="" /></p>
 
 <p><strong>案例三：太空人</strong></p>
 
@@ -94,7 +179,7 @@
 
 </blockquote>
 
-<p><img src="images/sora/space-man.png" alt="" /></p>]]></content><author><name>Ken</name></author><category term="Sora" /><summary type="html"><![CDATA[收录官方文档的最佳实践，本文的全文翻译来自：chatgpt4.0 turbo]]></summary></entry><entry><title type="html">如何订阅OnlyFans? 喜欢的博主要怎么支付？如何绑定虚拟信用卡？ 一篇全告诉你</title><link href="http://localhost:4000/2024/02/29/how-to-pay-bills-onlyfans/" rel="alternate" type="text/html" title="如何订阅OnlyFans? 喜欢的博主要怎么支付？如何绑定虚拟信用卡？ 一篇全告诉你" /><published>2024-02-29T00:00:00+08:00</published><updated>2024-02-29T00:00:00+08:00</updated><id>http://localhost:4000/2024/02/29/how-to-pay-bills-onlyfans</id><content type="html" xml:base="http://localhost:4000/2024/02/29/how-to-pay-bills-onlyfans/"><![CDATA[<p>本文推荐阅读时间仅三分钟，快速教你onlyfans订阅法门，仅需要解决一个问题。
+<p><img src="/images/sora/space-man.png" alt="" /></p>]]></content><author><name>Ken</name></author><category term="Sora" /><summary type="html"><![CDATA[收录官方文档的最佳实践，本文的全文翻译来自：chatgpt4.0 turbo]]></summary></entry><entry><title type="html">如何订阅OnlyFans? 喜欢的博主要怎么支付？如何绑定虚拟信用卡？ 一篇全告诉你</title><link href="http://localhost:4000/2024/02/29/how-to-pay-bills-onlyfans/" rel="alternate" type="text/html" title="如何订阅OnlyFans? 喜欢的博主要怎么支付？如何绑定虚拟信用卡？ 一篇全告诉你" /><published>2024-02-29T00:00:00+08:00</published><updated>2024-02-29T00:00:00+08:00</updated><id>http://localhost:4000/2024/02/29/how-to-pay-bills-onlyfans</id><content type="html" xml:base="http://localhost:4000/2024/02/29/how-to-pay-bills-onlyfans/"><![CDATA[<p>本文推荐阅读时间仅三分钟，快速教你onlyfans订阅法门，仅需要解决一个问题。
 那就是需要注册一张虚拟信用卡</p>
 
 <h2 id="目前订阅onlyfans唯一的门槛就是需要一张信用卡-可以看到即使是订阅免费的博主也是需要信用卡的">目前订阅OnlyFans唯一的门槛就是需要一张信用卡 可以看到即使是订阅免费的博主也是需要信用卡的</h2>
@@ -187,9 +272,9 @@
 
 <p>开通虚拟信用卡的网站：<a href="https://bewildcard.com/i/YAWEI6">一键开通chatgpt4.0</a></p>
 
-<p><img src="https://s2.loli.net/2024/01/27/HDyzSKYBCWo5vPk.png" alt="ffa353ebae83434e81d5dbe7025014a2~tplv-k3u1fbpfcp-jj-mark_0_0_0_0_q75.jpg" /></p>
+<p><img src="/images/chatgpt/wildcard-intro.png/" alt="" /></p>
 
-<p>根据要求复制付款的链接到候选框就可以一键升级了～</p>
+<p>选择chatgpt plus一键升级，然后根据要求复制付款的链接到候选框就可以一键升级了～</p>
 
 <p><img src="https://s2.loli.net/2024/01/27/EKaXiocm2kbLrY3.png" alt="e530b85adc434eda8e2db85c77144a24~tplv-k3u1fbpfcp-jj-mark_0_0_0_0_q75.jpg" /></p>
 
