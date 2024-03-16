@@ -57,8 +57,6 @@ topmost: false
 
 ![](/images/sora/elephant.png)
 
-
-
 **案例三：太空人**
 
 >Prompt: A movie trailer featuring the adventures of the 30 year old space man wearing a red wool knitted motorcycle helmet, blue sky, salt desert, cinematic style, shot on 35mm film, vivid colors.

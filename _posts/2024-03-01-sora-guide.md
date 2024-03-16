@@ -26,7 +26,7 @@ topmost: false
 
 （友情提示：目前openai仍然未开放sora灰度，能使用的是少部分专业用户，对普通人来说，最快接触到sora的方式是先订阅chatgpt plus，官方会首先开放给这批人使用，需要注册升级chatgpt plus的朋友可以看这篇文章，[升级chatgpt plus指南](https://www.chatgptzixun.com/2024/02/29/upgrade-chatgpt/),迅速完成升级）
 
-![](/images/sora/sora-first-page/)
+![](/images/sora/sora-first-page.png)
 
 # 二、Sora的最佳实践在哪里找？
 
@@ -62,7 +62,7 @@ topmost: false
 
 
 
-## 4.2 Sora将开始处理请求
+## 4.2 Sora使用步骤二
 
 Sora在开始生成之后需要花几分钟处理你的prompt，完成后，你将可以预览生成的视频。
 
