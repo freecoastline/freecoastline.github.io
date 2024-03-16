@@ -17,7 +17,7 @@ topmost: true
 
 # 具体步骤
 
-开通虚拟信用卡的网站：[wildcard | 一键开通chatgpt4.0](<https://bewildcard.com/i/YAWEI6>)
+开通虚拟信用卡的网站：[wildcard 一键开通chatgpt4.0](<https://bewildcard.com/i/YAWEI6>)
 
 **接下来跟着我三步搞定订阅chatgpt plus**，
 
